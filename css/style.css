@@ -33,6 +33,7 @@ button:hover {
 @media (max-width:768px){
     h1{
         font-size: 30px !important;
+        letter-spacing: -2px;
     }
     p{
         font-size: 20px !important;
@@ -44,6 +45,7 @@ button:hover {
 @media (min-width:768px) and (max-width:992px){
     h1 {
             font-size: 40px !important;
+            letter-spacing: -2px;
         }
     
         p {
