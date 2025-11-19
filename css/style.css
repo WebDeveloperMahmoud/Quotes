@@ -23,3 +23,21 @@ button {
 button:hover {
     background-color: green;
 }
+.container {
+    height: 100vh !important;
+}
+.quote-body {
+    width: fit-content !important;
+    height: fit-content !important;
+}
+@media (max-width:768px){
+    h1{
+        font-size: 55px;
+    }
+    p{
+        font-size: 25px;
+    }
+    button {
+        padding: 15px 50px;
+    }
+}
