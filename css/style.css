@@ -43,14 +43,14 @@ button:hover {
 }
 @media (min-width:767px) and (max-width:992px){
     h1 {
-            font-size: 40px;
+            font-size: 40px !important;
         }
     
         p {
-            font-size: 25px;
+            font-size: 25px !important;
         }
     
         button {
-            padding: 15px 50px;
+            padding: 15px 50px !important;
         }
 }
