@@ -32,7 +32,7 @@ button:hover {
 }
 @media (max-width:768px){
     h1{
-        font-size: 45px;
+        font-size: 40px;
     }
     p{
         font-size: 20px;
@@ -40,4 +40,17 @@ button:hover {
     button {
         padding: 15px 50px;
     }
+}
+@media screen and (min-width:767px) and (max-width:992px){
+    h1 {
+            font-size: 50px;
+        }
+    
+        p {
+            font-size: 25px;
+        }
+    
+        button {
+            padding: 15px 50px;
+        }
 }
